@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025/Homebrew)  (format=lualatex 2025.3.7)  13 MAY 2025 04:01
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025/Homebrew)  (format=lualatex 2025.3.7)  20 MAY 2025 04:31
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/hisadaseima/Develop/github/kindai-ecl/5736_report/int_rep/250513.tex
@@ -579,19 +579,6 @@ LaTeX Font Info:    Font shape `JT3/HiraginoMinchoProN(0)/b/n' will be
 LaTeX Font Info:    Font shape `JY3/HiraginoMinchoProN(0)/b/n' will be
 (Font)              scaled to size 16.62714pt on input line 16.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-
-Underfull \vbox (badness 2970) has occurred while \output is active []
-
-
-
-[1{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
-
-
-]
 
 (./250513.bbl
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
@@ -612,7 +599,10 @@ Underfull \hbox (badness 7133) in paragraph at lines 9--12
 
 )
 
-[2] (./250513.aux)
+[1{/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map}
+
+
+] (./250513.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -621,18 +611,18 @@ L3 programming layer <2025-01-18>
 
 Here is how much of LuaTeX's memory you used:
  5326 strings out of 475506
- 195709,794899 words of node,token memory allocated
+ 125244,794899 words of node,token memory allocated
  792 words of node memory still in use:
    7 hlist, 1 vlist, 4 rule, 2 glue, 3 kern, 1 glyph, 129 attribute, 49 glue_spec, 20 attribute_list, 1 write, 9 user_defined nodes
-   avail lists: 1:24,2:47236,3:266,4:173,5:33,6:20,7:5650,8:2,9:2204,10:24,11:88
+   avail lists: 1:14,2:30519,3:188,4:157,5:30,6:20,7:3818,8:1,9:1282,10:24,11:90
  28241 multiletter control sequences out of 65536+600000
  64 fonts using 69263607 bytes
  110i,8n,115p,1955b,345s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </System/Library/Fonts/Supplemental/Times New Roman Italic.ttf></System/Library/Fonts/Supplemental/Times New Roman.ttf></System/Library/Fonts/ヒラギノ明朝 ProN.ttc></System/Library/Fonts/ヒラギノ明朝 ProN.ttc></System/Library/Fonts/Supplemental/Times New Roman Bold.ttf></System/Library/Fonts/ヒラギノ明朝 ProN.ttc></System/Library/Fonts/ヒラギノ明朝 ProN.ttc>
-Output written on 250513.pdf (2 pages, 216025 bytes).
+Output written on 250513.pdf (1 page, 158450 bytes).
 
-PDF statistics: 46 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+PDF statistics: 43 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
